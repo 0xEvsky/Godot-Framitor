@@ -1,7 +1,7 @@
 # Framitor
 A custom tool/plugin for managing frame-based combat systems for 2D games in Godot 4. 
 Create frame-perfect attacks synced to your AnimatedSprite2D animations with visual editor tools.
-Heavily inspired by [Inbound Shovel](https://www.youtube.com/@InboundShovel) on Youtube
+Heavily inspired by [Inbound Shovel](https://www.youtube.com/@InboundShovel)
 
 ![Plugin Demo](screenshots/demo.gif)
 
@@ -243,7 +243,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## Credits
 Created by [0xEvsky](https://github.com/0xEvsky)  
-Heavily Inspired by [Inbound Shovel](https://www.youtube.com/@InboundShovel) on Youtube
+Heavily Inspired by [Inbound Shovel](https://www.youtube.com/@InboundShovel)
 
 ## Support
 
