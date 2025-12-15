@@ -18,13 +18,6 @@ Perfect for fighting games, beat 'em ups, hack & slash, and action platformers.
 
 ## Installation
 
-### Method 1: Godot Asset Library (Recommended)
-1. Open Godot's **AssetLib** tab
-2. Search for "Combat Frame Data System"
-3. Click **Download** and **Install**
-4. Enable the plugin in **Project > Project Settings > Plugins**
-
-### Method 2: Manual Installation
 1. Download the latest release from [GitHub](https://github.com/0xEvsky/Godot-Framitor)
 2. Extract the `addons/framitor/` folder into your project's `addons/` directory
 3. Enable the plugin in **Project > Project Settings > Plugins**
