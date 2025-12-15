@@ -28,7 +28,7 @@ Manually tracking this for every attack is tedious and error-prone:
 - Adding new attacks requires custom logic for active frames
 - Editing animations can break frame-dependent logic
 
-**Framitor solves this problem** by letting you visually manage active frames, hitboxes, and attack effects in the Godot editor — no extra code needed for each frame.
+**Framitor solves this problem** by letting you visually manage active frames, hitboxes, and attack effects in the Godot editor so no extra code needed for each frame.
 
 
 ## Installation
