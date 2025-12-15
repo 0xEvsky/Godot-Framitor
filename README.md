@@ -16,6 +16,21 @@ Heavily inspired by [Inbound Shovel](https://www.youtube.com/@InboundShovel)
 
 Perfect for fighting games, beat 'em ups, hack & slash, and action platformers.
 
+
+## Why Framitor?
+
+In frame-based 2D combat systems, each attack animation may have:
+- Wind-up frames before the attack is active
+- Active frames where damage and effects occur
+- Recovery frames after the attack
+
+Manually tracking this for every attack is tedious and error-prone:
+- Adding new attacks requires custom logic for active frames
+- Editing animations can break frame-dependent logic
+
+**Framitor solves this problem** by letting you visually manage active frames, hitboxes, and attack effects in the Godot editor — no extra code needed for each frame.
+
+
 ## Installation
 
 1. Download the latest release
