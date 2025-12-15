@@ -18,7 +18,7 @@ Perfect for fighting games, beat 'em ups, hack & slash, and action platformers.
 
 ## Installation
 
-1. Download the latest release from [GitHub](https://github.com/0xEvsky/Godot-Framitor)
+1. Clone the repo (or download it as a ZIP file)
 2. Extract the `addons/framitor/` folder into your project's `addons/` directory
 3. Enable the plugin in **Project > Project Settings > Plugins**
 
