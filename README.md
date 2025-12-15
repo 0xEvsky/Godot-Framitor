@@ -18,8 +18,8 @@ Perfect for fighting games, beat 'em ups, hack & slash, and action platformers.
 
 ## Installation
 
-1. Clone the repo (or download it as a ZIP file)
-2. Extract the `addons/framitor/` folder into your project's `addons/` directory
+1. Download the latest release
+2. Extract the `framitor` folder into your project's `addons/` directory
 3. Enable the plugin in **Project > Project Settings > Plugins**
 
 ## Quick Start
