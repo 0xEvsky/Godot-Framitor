@@ -145,12 +145,6 @@ func attack():
     await sprite.animation_finished
     attack_node.endAttack()
 ```
-
-**Key Points:**
-- Call `startAttack()` when the attack begins
-- Call `endAttack()` when the attack finishes
-- The system handles hitbox activation automatically based on animation frames
-
 ## API Reference
 
 ### AttackFrameDataNode
