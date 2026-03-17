@@ -32,7 +32,7 @@ Manually tracking this for every attack is tedious and error-prone:
 
 ## Dependencies
 
-This plugin depends on [godot-4.0-tool_button](https://github.com/teebarjunk/godot-4.0-tool_button)
+This plugin depends on [godot-4.0-tool_button](https://github.com/teebarjunk/godot-4.0-tool_button)  
 Make sure it is installed and enabled before using this plugin.
 
 ## Installation
